@@ -11,7 +11,7 @@ The results of the analysis are shown in the table below and outlined as follows
 -    Out of 136 reviews written by members of the Vine program, **74** (**54%**) were 5-star reviews.
 -    Out of 18,019 reviews written by customers who were not members of the Vine program, **8,482** (**47%**) were 5-star reviews.
 
-![img1](Resources/ Vine_Review_Summary.png)
+![img1](Resources/Vine_Review_Summary.png)
 
 
 ## Summary
